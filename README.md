@@ -8,7 +8,7 @@
 
 
   - 💞️ I’m interested in **Backend Development** with python
-  - 🌱 I’m currently learning **DSA ** & **Angular**
+  - 🌱 I’m currently learning **DSA** & **Angular**
   - 👀 I’m looking to collaborate on **Django**, **React** and **Nodejs** Projects
 
   
