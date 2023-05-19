@@ -1,15 +1,15 @@
 - Hello 👋 I’m Faizan Shaikh
 
-  **_I'm a Full Stack Web Developer skilled in MERN & MEAN stack who focuses on writing clean, elegant and efficient code._**
+  **_Software engineer with hands-on experience in developing and deploying large-scale applications that meet high reliability, scalability, and maintainability standards._**
 
   _- Currently doing Master of Science at Northeastern University_
 
    ![](https://komarev.com/ghpvc/?username=shfaizan&color=brightgreen) ![](https://img.shields.io/github/followers/shfaizan?style=social)
 
 
-  - 💞️ I’m interested in **MEAN & MERN Stack** Web Development
-  - 🌱 I’m currently learning **DSA in JS** & **WEB 3.0**
-  - 👀 I’m looking to collaborate on **WEB 3.0** , **JAMSTACK** and **Nodejs** Projects
+  - 💞️ I’m interested in **Backend Development** with python
+  - 🌱 I’m currently learning **DSA ** & **Angular**
+  - 👀 I’m looking to collaborate on **Django**, **React** and **Nodejs** Projects
 
   
 
@@ -79,4 +79,4 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfaizan&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
   </p>
 
-  <br
+  <br>
